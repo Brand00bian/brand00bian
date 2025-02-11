@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Best Video Games</title>
 </head>
-
 <body>
-
   <header>
     <h1>Top 3 Video Games of All Time</h1>
     <p>Explore some of the most iconic games that have left a mark on gaming history.</p>
   </header>
-
   <main>
     <section>
       <h2>Game List</h2>
@@ -23,7 +19,6 @@
         <li>The Witcher 3: Wild Hunt</li>
       </ul>
     </section>
-
     <section>
       <h2>Game Images</h2>
       <figure>
